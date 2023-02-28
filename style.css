@@ -1,0 +1,91 @@
+@font-face {
+    font-family: 'ExpletusSans-Medium';
+    src: url('ExpletusSans-Medium.ttf');
+}
+
+
+header{
+		color: #065BA5;
+		font-size: 1.7em;
+	  }
+
+.pp5{
+	font-size: 15px;
+	color:red;
+   }
+
+p
+{
+ 	font-family:'ExpletusSans-Medium', arial, serif;
+ 	font-weight: normal;
+ 	text-align: left;
+}
+
+.para1
+	{
+	 color: rgb(172,21,48); font-size: 1em;
+	 text-align: center;
+	 font-size: 10px;
+	}
+
+h2, em
+	{
+	 color: red; font-size: 1.9em;
+	}
+
+h1,h2,h3
+	{
+	 text-decoration: overline;
+	 text-align: center;
+	 color: rgb(19,236,40);
+	 border: 4px blue outset;
+	 border-radius: 15px;
+	 box-shadow: 6px 6px 0px red inset;
+	 text-shadow: 2px 1px  0px blue;
+	}
+
+strong
+	{
+	 font-weight: normal;
+	}
+.crcr
+	{
+	 color: green;
+	}
+
+a[title="CoolClass"]
+	{
+	 color: #ffc202;
+	}
+
+.imageflottante
+	{ 
+	 float: left;
+	}
+
+.dessous
+	{
+	 clear: both;
+	}
+
+
+body
+	{
+	 background: #F4EEEE;
+
+	}
+
+ul
+	{
+	 color: #905C47;
+	}
+
+ol
+	{
+	 color: #CEBB26;
+	}
+
+a:visited
+	{
+	 color: pink;
+	}
